@@ -1,4 +1,4 @@
-# infinity-docker-scripts
+# [infinity](https://github.com/michaelfeil/infinity)-docker-scripts
 
 ## .env
 ```
